@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to DR. APJ ABUL KALAM SIR</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<header>
+        <h1>Tribute TO MISSLE MAN OF INDIA</h1>
+    </header>
+    <main>
+         <div class="intro">
+    <h1>DR. APJ ABDUL KALAM SIR</h1>
+            <p>
+                 DR. APJ ABUL KALAM SIR the most remarkable, humble, respected person. Who hails from Rameshwaram, Tamil Nadu</p>Born On 15th of October 1931 who served for the country Till 27th Of July 2015. <p>Also the most down to earth 11th President Of INDIA. 
+            </p>
+        </section>
+<section>
+ <div class="container">
+            <h2>EARLY LIFE</h2>
+ <p>
+Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931, to a Tamil Muslim family in the pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State of Tamil Nadu. His father Jainulabdeen Marakayar was a boat owner and imam of a local mosque; his mother Ashiamma was a housewife. His father owned a ferry that took Hindu pilgrims back and forth between Rameswaram and the now uninhabited Dhanushkodi. Kalam was the youngest of four brothers and one sister in his family. His ancestors had been wealthy Marakayar traders and landowners, with numerous properties and large tracts of land. Marakayar are a Muslim ethnic group found in coastal Tamil Nadu and Sri Lanka who claim descent from Arab traders and local women. The family business had involved trading groceries between the mainland and the island and to and from Sri Lanka, as well as ferrying pilgrims between the mainland and Pamban. With the opening of the Pamban Bridge to the mainland in 1914, however, the businesses failed and the family fortune and properties were lost by the 1920s, apart from the ancestral home. The family was poverty-stricken by the time Kalam was born. As a young boy he had to sell newspapers to add to the family's meager income. 
+          </div>  </p>
+</section>
+<section id="photos">
+            <div class="photo">
+                <img src="Kalam.jpg" alt="DR APJ ABDUL KALAM ISRO">
+ <span class="caption"><p>Apj Abdul Kalam With satellite mission</p></span>
+            </div>
+            <div class="photo">
+                <img src="KALAM 2.jpg" alt="DR APJ ABDUL KALAM QUOTE">
+ <span class="caption"><p>Amazing thought of DR. KALAM and So Much to Learn from them</p></span>
+            </div>
+            <div class="photo">
+                <img src="KALAM 3.jpg" alt="DR APJ ABUL KALAM ">
+	 <span class="caption"><p>The missile man of INDIA</p></span>
+            </div>
+        </section>
+
+      <div class="contributions">
+            <h2>CONTRIBUTIONS IN VARIOUS FIELDS</h2>
+            <p>
+               For the Nation: His contributions towards the development of the country's missile and nuclear weapons programs earned him the title of 'Missile Man of India'. On his death anniversary let us take a look at his inspiring journey and remarkable achievements.
+            </p>
+            <p>
+              In The Field Of Education: Abdul Kalam has contributed a lot to different aspects of education including the aims of education, curriculum, teaching methodology, role of teachers, parents, schools and so on. Dr. Abdul kalam has put forth his views regarding various issues like women education, moral education, value based education.
+            </p>
+        </section>
+<section id="Career As A Scientist">
+            <h2>CAREER AS A SCIENTIST</h2>
+ <p>
+              After graduating from the Madras Institute of Technology in 1960, Kalam joined the Aeronautical Development Establishment of the Defence Research and Development Organisation (by Press Information Bureau, Government of India) as a scientist after becoming a member of the Defence Research & Development Service (DRDS). He started his career by designing a small hovercraft, but remained unconvinced by his choice of a job at DRDO. DR Kalam joined the INCOSPAR, working under VIKRAM SARABHAI, the renowned space scientist. He was interviewed and recruited into ISRO by H. G. S. Murthy, the first Director of Thumba Equatorial Rocket Launching Station (TERLS). In 1969, Kalam was transferred to the Indian Space Research Organisation (ISRO) where he was the project director of India's first Satellite Launch Vehicle (SLV-III) which successfully deployed the Rohini satellite in near-earth orbit in July 1980; Kalam had first started work on an expandable rocket project independently at DRDO in 1965. In 1969,
+ Kalam received the government's approval and expanded the programme to include more engineers.
+Kalam addresses engineering students at IIT Guwahati
+In 1963 to 1964, he visited NASA's Langley Research Center in Hampton, Virginia; Goddard Space Flight Center in Greenbelt, Maryland; and Wallops Flight Facility. Between the 1970s and 1990s, Kalam made an effort to develop the Polar Satellite Launch Vehicle (PSLV) and SLV-III projects, both of which proved to be successful.
+            </p>
+</section>
+<section id="Presidency">
+            <h2>PRESIDENCY</h2>
+            <p>
+               Kalam served as the 11th president of India, succeeding K. R. Narayanan. He won the 2002 presidential election with an electoral vote of 922,884, surpassing the 107,366 votes won by Lakshmi Sahgal. His term lasted from 25 July 2002, to 25 July 2007.
+On 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time, expressed that they would nominate Kalam for the post of President. Both the Samajwadi Party and the Nationalist Congress Party backed his candidacy. After the Samajwadi Party announced its support for Kalam.
+            </p>
+            <p>
+In May 2012, Kalam launched a programme for the youth of India called the What Can I Give Movement, with a central theme of defeating corruption.
+            </p>
+        </section>
+<section id="Memorial">
+            <h2>MEMORIAL</h2>
+ <p>
+The Dr. A. P. J. Abdul Kalam National Memorial was built in memory of Kalam by the DRDO in Pei Karumbu, in the island town of Rameswaram, Tamil Nadu. It was inaugurated by Prime Minister Narendra Modi in July 2017.On display are the replicas of rockets and missiles which Kalam had worked with. Acrylic paintings about his life are also displayed along with hundreds of portraits depicting the life of the mass leader. There is a statue of Kalam in the entrance showing him playing the Veena. There are two other smaller statues of the leader in sitting and standing posture.
+            </p>
+</section>
+<section id="Awards">
+            <h2>Awards</h2>
+ <p>
+<ul> Bharat Ratna--1997</ul>
+<ul> Veer Savarkar Award--1998</ul>
+<ul> Padma Bhushan --1981</ul>
+<ul> Padma Vibhushan--1980</ul>
+<ul> Indira Gandhi Award For Nation Integration--1997</ul>
+<ul> Von Braun Award--2013(National Space Society)</ul>
+            </p>
+</section>
+<section id="photos">
+            <div class="photo">
+                <img src="rameshwaram.jpg" alt="House and memorial of Kalam">
+    <span class="caption"><p>House Of DR. KALAM and also the Memorial</p></span>
+</div>
+            <div class="photo">
+                <img src="dr kalam satish dhawan.jpg" alt="Those Days">
+ <span class="caption"><p>DR. KALAM interacting with SATISH DHAWAN SIR and INDIRA GANDHI</p></span>
+            </div>
+            <div class="photo">
+                <img src="dr kalam with students.jpg" alt=" Student's Favourite">
+<span class="caption"><p>A person having warm connection and Affection towards students.</p></span>
+            </div>
+        </section>
+    </main>
+<div class="gif-container">
+        <img src="rocket.gif" alt="Your GIF">
+    </div>
+    <footer>
+       <h3> <p>Created with admiration by Vaibhavii S. Shindey</h3></p>
+    </footer>
+</body>
+</html>
